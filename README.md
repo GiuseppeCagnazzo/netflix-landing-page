@@ -3,5 +3,5 @@ A clone of the netflix landing page
 
 Credits: Traversy Media
 
-[Netflix landing Page](https://www.google.com)
+[Netflix landing Page](https://giuseppecagnazzo.github.io/netflix-landing-page/)
 
